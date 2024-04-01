@@ -17,7 +17,7 @@ jobs:
         uses: google-github-actions/setup-gcloud@v1
         with: 
           version: 'latest'
-          service_account_key: c26b6e8c4e9e86ad57b1ac3bbdd674164b57abc7
+          service_account_key: SES_CE_KEY
           project_id: neon-alcove-419010
 
       - name: Deploy to Google Cloud Storage
