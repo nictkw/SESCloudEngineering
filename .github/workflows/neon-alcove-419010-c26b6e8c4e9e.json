@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neon-alcove-419010",
+  "private_key_id": "c26b6e8c4e9e86ad57b1ac3bbdd674164b57abc7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9xX/nc8nMLjEe\n4hJJi4g3PWt3gCVzKls3cm4lr/f32YQ+B2mNZr6u3Lp1nZBMegbnm0aKEh74KLMh\nnNS0oydL4x/xyuEZ4M0ahaANy+meBoT3IJr8D48Qio/1oLHPJLEuiMu3UHiy/gd8\n8LtYg+kJAZyKEot9rV5sBz7bnxjPsSZxnBgTi6C4FP2N7t+F2+WFP9jiNLL3jMUE\nLl/A8BlRPVqzlEjKEJYeyPWFHBrhStGbyxNBnuB0kcmxNLVxf6DcqS14YrZPAWrm\npqwxLFHoeD1Vqa0jm1anC8f7/plKptvNMqeSTwwBfPawPe21l+mAjpy1CpMFWyPx\nHteP4pWXAgMBAAECggEAB0f1HNnF89YP32n4HqdCXjA2l9qsVStaXZm/3SVPw8wu\nNT0OkTTQeyAP7WRSvYRvEGLWRYTleEsDeHYueRHLd69qsdnBYj9MT0iyN+VLfNsu\nLdcr6yDjsdRHKrr0J4j2XV01R77IKsHxYptP7Nj+z3Am4+tLO9KzjTyH7mA/0PQf\nmkwYQUqweCs273r+LLMjSOAIWqU8r1vAqwh+Kp9x9z8FfoCTw4CsTo+J1T6Nrkoc\nXQCel/jhquhAG+blQ5nYgOmwqjY1wK2FuLbYkvua2rsy0BlkpVXWIRMEwId5OPP+\nLFFPJO469TQNVge8HEpWoZB/wB7R9ipkE1WVz4uJ4QKBgQDtSkr46nU25zIP7xAv\njgjdt/tGbNsJ/1BIj+KJwW0MKKEBxdGdrzOZbAkQOwFir7uI1aL3IgjJMxJEK6/n\nkTiBLoNy+Nmn1hvma6yKF5zpmrOw4aRgK0s8B8YfKh1tnYwKblR3mZzuNopk/c/A\nChb7YT1DfFl5ASyl4M5AmvlptwKBgQDMvApb2buSmuiecZ9yqLzJZCsLpPzgwGZt\n0MYWvLao6F7HcMgwnraFwszjH2gnO5vxqhwjMJdMXvr2xOUMVil8jhvLTobfClq1\n4oKuaSgwbVLFo8yeZPIJHrj59QgjVdUDvBOKGXC3Et/8IWVBeCVcSkSkJB580uu7\nVILEWbezIQKBgCTKPP+E0nGVvORNi3PkEKnXqaTModVV+WuWq2fyTmbxMa1lr09E\nZ7qkzm7uxxM27duUS/UHGNehDHb3UwmTMXCN9qFvxcdI4gCCtzid2p05eBy3j1W9\nwKdpCSWx0Og64giH/J6ieXtRh3mLBJfguJl3BRmegPzK2tJJHZFUtdDXAoGAWJrM\n9OFvX0xxfhj4g7vpMFOMmZaG5pH+AmrHQBHeD425byEtUnVt0sfyuhzei5QtslIH\nqWcfI6s7e87MviEQBVrPRpauohquFWd5XRgfj43Qs75nEOnpIe9M6MiWBAziiqI7\n5pmKAYFGtKyTUNk5eg6eVFdZZnY2FTXG/klBymECgYEAw3Vf3QqwzbUggQ+XCBpm\nshs9wRo/psj17jhMvZjNuFHqjFXxql/OchNHpfoeBvy2lUxydXypYcRdx+xtOBhv\nIbItKJmcO5Cnp/JOqkuHKCY4eZvB60tMwJ1BrGK8dgG/eFliTe8A7ezsJpq2E4Ah\nxefc/L8T35QpBKUGQeK0yC8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ses-ce-deployment@neon-alcove-419010.iam.gserviceaccount.com",
+  "client_id": "106937884909963399286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ses-ce-deployment%40neon-alcove-419010.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
