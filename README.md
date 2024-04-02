@@ -1,4 +1,4 @@
 # SESCloudEngineering
 SES Cloud Engineering homework
 
-Deployed website URl: https://storage.googleapis.com/ses-ce/index.html
+Deployed website URl: https://ses-ce.storage.googleapis.com/index.html
