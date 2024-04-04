@@ -22,6 +22,7 @@ Architecture Diagram:
      
 6. Performance Efficiency
    - Able to optimize database performance by adjusting some configurations in the PostgreSQL and indexing strategies
+   - Cloud CDN is also included which helps to accelerate websites and applications
    - Utilizing caching mechanisms such as Google Cloud memory store to access data from there to reduce any database load
    - Make use of Google Cloud monitoring to optimize resources based on the metrics
   
